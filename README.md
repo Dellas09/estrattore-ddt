@@ -37,3 +37,9 @@ avvia.bat	Avvia l'applicazione
 Installate automaticamente da installa.bat:
 
 pymupdf  easyocr  fpdf2  requests
+
+
+
+
+
+python -m pip install pymupdf easyocr fpdf2 requests
